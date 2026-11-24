@@ -1,0 +1,7 @@
+{
+  "name": "Micro-Sync 專案微同步",
+  "description": "專為專題生與指導教授設計的狀態驅動型微溝通工具。學生拍照微文字回報，教授免裝App一鍵3秒決策反饋，雲端自動結構化歸檔。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
